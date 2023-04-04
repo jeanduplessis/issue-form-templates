@@ -9,12 +9,8 @@ body:
     attributes:
       value: >-
         Thank you for helping to improve Official AWS Provider!
-
-
         Please be sure to search for open issues before raising a new one. We
-        use issues
-
-        for both bug reports and feature requests.
+        use issues for both bug reports and feature requests.
   - type: textarea
     attributes:
       label: What happened?
